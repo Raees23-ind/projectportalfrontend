@@ -52,7 +52,7 @@ TEMPLATES = [
 WSGI_APPLICATION = "project_cluster.wsgi.application"
 
 CORS_ALLOWED_ORIGINS = [
-    'https://projectportal-xmqz.onrender.com',
+    'https://projectportal-1.onrender.com/',
     'http://127.0.0.1:5173',
     'http://localhost:3000',
     'http://127.0.0.1:3000',
