@@ -1,0 +1,100 @@
+title,description,keywords,complexity_score,duration_days
+Todo App,Simple todo list using React,react,javascript,5,7
+Calculator,Web calculator in JavaScript,javascript,html,4,5
+Portfolio,Personal portfolio site,html,css,3,4
+E-commerce,E-commerce website with cart,django,react,8,14
+Chat App,Real-time chat with sockets,nodejs,websocket,9,21
+Blog Platform,A blogging site with user login,django,html,6,10
+Weather App,Shows weather using an API,react,api,5,7
+Notes App,Online notes taking app,react,nodejs,6,9
+Movie Recommender,ML based movie recommendations,python,ml,9,20
+Stock Predictor,Stock price forecasting using LSTM,python,ml,10,30
+Quiz App,Interactive quiz with timer,javascript,html,5,6
+Expense Tracker,Tracks daily expenses,react,nodejs,6,8
+Online Polls,Create and vote on polls,django,html,7,10
+Fitness Tracker,Tracks workout and health stats,react,api,8,12
+Recipe Finder,Finds recipes using ingredients,react,api,6,9
+News Aggregator,Collects news articles from APIs,python,api,7,12
+URL Shortener,Shortens URLs using hashing,nodejs,express,5,6
+File Sharing,Peer to peer file sharing app,nodejs,websocket,9,15
+Travel Planner,Plan trips with maps integration,react,google-maps,8,14
+Learning Management System,Online courses and quizzes,django,react,10,25
+Online Whiteboard,Collaborative whiteboard app,react,canvas,8,14
+Music Player,Web-based music player,javascript,html,6,8
+AI Chatbot,Chatbot with NLP,python,ml,10,28
+Face Recognition,Identify faces using OpenCV,python,opencv,9,22
+Handwriting Recognition,Recognize handwritten digits,python,ml,9,18
+E-voting System,Secure online voting system,django,security,10,25
+Hospital Management,Manages patients and doctors,django,sql,9,20
+Library Management,Book catalog and issue system,java,sql,8,16
+Banking App,Online banking prototype,java,spring,9,21
+Hotel Booking,Hotel booking with payments,django,react,8,14
+Food Delivery,Food ordering and delivery,react,nodejs,8,15
+Task Scheduler,Schedule and manage tasks,python,flask,7,10
+Calendar App,Custom calendar with events,react,calendar,6,9
+Car Rental,Car booking and rental system,django,sql,9,20
+Ride Sharing,Ride booking like Uber,react,nodejs,10,28
+Inventory Management,Manage product stock,django,sql,9,18
+Online Banking,Account balance and transfer,java,spring,9,22
+Classroom App,Virtual classroom with video,react,webrtc,10,30
+Video Streaming,Stream video content,nodejs,react,10,28
+Forum App,Discussion board like Reddit,django,react,7,12
+Resume Builder,Generate resumes dynamically,react,html,5,7
+Job Portal,Job postings and applications,django,react,9,20
+Messaging App,Encrypted messaging,nodejs,websocket,9,22
+Social Network,Full social media platform,react,nodejs,10,35
+Image Gallery,Upload and view images,react,django,6,9
+Photo Editor,Online photo editing tool,react,canvas,9,22
+AI Translator,Translate text with ML,python,ml,9,20
+Language Learning,Learn languages with quizzes,react,nodejs,8,15
+E-learning App,Video lectures and tests,django,react,10,28
+Pet Adoption,Adopt pets via a portal,django,react,6,10
+Donation Platform,Raise and donate funds,django,react,8,14
+Crowdfunding Site,Fundraising campaigns,django,react,9,20
+Auction Site,Online product auctions,django,sql,8,16
+Marketplace,Multi-vendor e-commerce,react,nodejs,10,25
+Restaurant Finder,Find restaurants nearby,react,api,6,9
+Carpool App,Share rides with others,react,nodejs,8,15
+Quiz Generator,Generate quizzes from text,python,nlp,9,20
+Resume Analyzer,Analyze resumes with ML,python,ml,8,15
+Credit Scoring,Loan eligibility predictor,python,ml,10,25
+Fraud Detection,Fraudulent transaction detection,python,ml,10,30
+Spam Filter,Classify spam emails,python,ml,8,18
+Sentiment Analyzer,Analyze text sentiment,python,nlp,8,15
+Speech to Text,Convert speech to text,python,ml,10,28
+Text to Speech,Convert text to audio,python,ml,9,20
+Currency Converter,Convert currencies in real-time,javascript,api,5,6
+Unit Converter,Convert units like length,javascript html weight,4,5
+Dictionary App,Word definitions and examples,react,api,5,7
+Flashcards,Study flashcards app,react,nodejs,5,7
+Pomodoro Timer,Productivity timer app,javascript,html,4,5
+Habit Tracker,Track daily habits,react,nodejs,6,8
+Password Manager,Store passwords securely,python,security,8,15
+Blockchain Wallet,Crypto wallet with transactions,python,blockchain,10,30
+NFT Marketplace,Buy and sell NFTs,react,nodejs,10,30
+Crypto Exchange,Trading platform for crypto,react,nodejs,10,35
+Quiz Battle,Multiplayer quiz game,react,websocket,7,12
+Chess Game,Online chess with multiplayer,react,websocket,8,18
+Sudoku Solver,Solve sudoku puzzles,python,algorithm,7,12
+Maze Generator,Generate and solve mazes,python,algorithm,6,10
+Tetris Game,Web-based Tetris,javascript,canvas,7,12
+Snake Game,Classic snake game,javascript,html,5,8
+2048 Game,Tile merging puzzle,javascript,react,6,9
+Memory Game,Flip and match cards,javascript,html,4,6
+Typing Test,Measure typing speed,react,api,6,8
+Virtual Reality Tour,VR-based travel experience,unity,vr,10,35
+Augmented Reality App,AR app for shopping,unity,ar,10,30
+3D Model Viewer,View 3D models in browser,threejs,webgl,9,20
+Data Dashboard,Interactive charts and graphs,react,d3,8,15
+Sales Analytics,Analyze sales data,python,ml,9,20
+Customer Churn,Churn prediction with ML,python,ml,10,25
+Recommendation System,Product recommendations,python,ml,10,28
+Energy Forecasting,Forecast power usage,python,ml,10,30
+Weather Prediction,Weather forecast with ML,python,ml,9,22
+Traffic Prediction,Predict traffic density,python,ml,10,28
+Disease Prediction,Health disease classifier,python,ml,10,25
+Heart Disease Predictor,Detect heart disease risk,python,ml,9,20
+Diabetes Detection,Detect diabetes from data,python,ml,9,20
+Plant Disease Detection,Detect crop diseases,python,ml,10,28
+Object Detection,Detect objects in images,python,ml,10,28
+Self Driving Car,Autonomous driving simulation,python,ml,10,40
